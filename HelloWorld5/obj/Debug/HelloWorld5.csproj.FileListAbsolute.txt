@@ -1,0 +1,8 @@
+C:\Users\jcoro\OneDrive\Desktop\HelloWorld5\HelloWorld5\bin\Debug\HelloWorld5.exe.config
+C:\Users\jcoro\OneDrive\Desktop\HelloWorld5\HelloWorld5\bin\Debug\HelloWorld5.exe
+C:\Users\jcoro\OneDrive\Desktop\HelloWorld5\HelloWorld5\bin\Debug\HelloWorld5.pdb
+C:\Users\jcoro\OneDrive\Desktop\HelloWorld5\HelloWorld5\obj\Debug\HelloWorld5.csproj.AssemblyReference.cache
+C:\Users\jcoro\OneDrive\Desktop\HelloWorld5\HelloWorld5\obj\Debug\HelloWorld5.csproj.SuggestedBindingRedirects.cache
+C:\Users\jcoro\OneDrive\Desktop\HelloWorld5\HelloWorld5\obj\Debug\HelloWorld5.csproj.CoreCompileInputs.cache
+C:\Users\jcoro\OneDrive\Desktop\HelloWorld5\HelloWorld5\obj\Debug\HelloWorld5.exe
+C:\Users\jcoro\OneDrive\Desktop\HelloWorld5\HelloWorld5\obj\Debug\HelloWorld5.pdb
