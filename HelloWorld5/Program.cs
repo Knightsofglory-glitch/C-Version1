@@ -6,7 +6,11 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("updated next vidieo");
+            int i = 1;
+            byte b = (byte)i;
+
+            Console.WriteLine(i);
+            Console.WriteLine(b);
         }
     }
 }
