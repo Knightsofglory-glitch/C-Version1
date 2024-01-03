@@ -7,10 +7,17 @@ namespace TypeConversion
     {
         static void Main(string[] args)
         {
-            int i = 1000;
-            byte b = (byte)i;
-
-            Console.WriteLine(b);
+            try
+            {
+                var number = "1234";
+                byte b = Convert.ToByte(number);
+                Console.WriteLine(b);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("the number couldnt be converted to a bite");
+            }
+           
         }
     }
 }
