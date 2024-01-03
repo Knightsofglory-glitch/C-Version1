@@ -1,17 +1,16 @@
 ﻿using System;
 using System.Diagnostics.CodeAnalysis;
 
-namespace Variables
+namespace TypeConversion
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string s = "1";
-            int i = Convert.ToInt32(s);
+            int i = 1000;
+            byte b = (byte)i;
 
-            Console.WriteLine(i);
-            Console.WriteLine(s);
+            Console.WriteLine(b);
         }
     }
 }
