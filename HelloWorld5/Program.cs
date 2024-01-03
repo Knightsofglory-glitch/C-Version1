@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Variables
 {
@@ -6,11 +7,11 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            int i = 1;
-            byte b = (byte)i;
+            string s = "1";
+            int i = Convert.ToInt32(s);
 
             Console.WriteLine(i);
-            Console.WriteLine(b);
+            Console.WriteLine(s);
         }
     }
 }
