@@ -1,23 +1,16 @@
 ﻿using System;
 using System.Diagnostics.CodeAnalysis;
 
-namespace TypeConversion
+namespace Operators
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            try
-            {
-                var number = "1234";
-                byte b = Convert.ToByte(number);
-                Console.WriteLine(b);
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("the number couldnt be converted to a bite");
-            }
-           
+            var a = 10;
+            var b = 3;
+
+            Console.WriteLine((float)a /(float) b);
         }
     }
 }
